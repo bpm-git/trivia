@@ -183,7 +183,7 @@ DELETE ...
             }
         ],
         "success": true,
-        "total questions": 21
+        "total_questions": 21
     }
 ```
 
